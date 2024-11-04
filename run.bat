@@ -1,3 +1,3 @@
 @echo off
-python 23CodeServer.py
+python 23codeserver.py
 pause
